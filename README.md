@@ -11,15 +11,15 @@
     <tr>
       <td>
         <h6>Input Sewa</h6>
-        <img height="400em" src="HIMAC/Demo/input_sewa.png"/>
+        <img height="300em" src="HIMAC/Demo/input_sewa.png"/>
       </td>
       <td>
         <h6>Detail Sewa</h6>
-        <img height="400em" src="HIMAC/Demo/detail_invoice.png"/>
+        <img height="300em" src="HIMAC/Demo/detail_invoice.png"/>
       </td>
       <td>
         <h6>Pembayaran Sewa</h6>
-        <img height="400em" src="HIMAC/Demo/invoice_kembali.png"/>
+        <img height="300em" src="HIMAC/Demo/invoice_kembali.png"/>
       </td>
     </tr>
   </table>
