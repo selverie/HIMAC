@@ -17,6 +17,10 @@
         <h6>Detail Sewa</h6>
         <img height="500em" src="HIMAC/Demo/detail_invoice.png"/>
       </td>
+      <td>
+        <h6>Pembayaran Sewa</h6>
+        <img height="500em" src="HIMAC/Demo/invoice_kembali.png"/>
+      </td>
     </tr>
   </table>
 </div>
