@@ -79,7 +79,7 @@ void printInvoiceKembali(struct Invoice invoice, float jumlah_pembayaran, float 
 int main() {
     struct Invoice invoice; // Variabel invoice bertipe struct untuk menyimpan data invoice yang sedang diproses.
     int menu; // Variabel menu untuk menyimpan pilihan menu yang dipilih pengguna.
-    char nomor_struk[100]; // Variabel nomor_struck untuk menyimpan nomor struk yang diinput pengguna saat menu pengembalian dipilih.
+    char nomor_struk[100]; // Variabel nomor_struk untuk menyimpan nomor struk yang diinput pengguna saat menu pengembalian dipilih.
     float jumlah_pembayaran;  // Variabel jumlah_pembayaran untuk menyimpan jumlah pembayaran yang diinput pengguna saat menu pengembalian dipilih. 
     float denda = 0.0; // Variabel denda mengeneakan denda ketika user melewati batas hari yang ditentukan.
 
