@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>HIMAC Competitive Programming 2023 </h1>
+  <h1>HIMAC Competitive Programming 2023</h1>
 </div>
 
 <p>Nama : Ikhwan Kuncoro Yakti</p>
